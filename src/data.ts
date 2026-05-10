@@ -43,7 +43,7 @@ export const SERVICES = [
 
 export const PROJECTS = [
   {
-    title: 'Gurgaon Modern Villa Makeover',
+    title: 'Goa Modern Villa Makeover',
     description: 'A contemporary villa renovation in DLF Phase II, blending minimalist design with warm Indian aesthetics for a young family.',
     image: '/images/uh4xMEtnO7cYaQ5ItWn7lpfimTo.webp',
   },
